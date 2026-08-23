@@ -1,0 +1,27 @@
+# Exclude profiles folder to prevent personal profile data from being committed
+profiles/
+
+# Downloads folder (contains installer executables)
+downloads/
+
+# OS and IDE files
+.DS_Store
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Environment and logs
+*.log
+logs/
+.env
+.env.local
+
+# Temporary files
+*.tmp
+*.temp
+~$*
+
+# Node modules (if ever needed)
+node_modules/
