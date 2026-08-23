@@ -72,6 +72,18 @@ The following are steps you have to take in order to be ready to install Fika. I
 1. Click the tile for your restore profile
 1. Click **START GAME** and you should see your restore profile in-game
 
+### Step 8: Installing Mods (Optional)
+
+If you want to add recommended mods to your SPT installation:
+
+1. Download any mod zip files from the [Releases](https://github.com/mikematos84/spt-setup-guide/releases) page
+2. Extract the mod zip into your SPT installation directory: `C:\Games\SPT\`
+3. The mod folders will merge with existing directories automatically
+4. Restart your SPT server for mods to take effect
+5. You can verify mods are loaded by checking the console output when the server starts
+
+> **Note**: Only install mods that are compatible with SPT v4.1.3. Incompatible mods may cause crashes or unexpected behavior.
+
 ---
 
 ## 📋 Dependency Reference
