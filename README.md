@@ -4,7 +4,7 @@ Setup guide to getting SPT (Single Player Tarkov) **v4.1.3** and **Fika v2.4.2**
 
 ## Prerequisites 
 
-All required installers and runtimes are available in the [**Latest Release**](https://github.com/mikematos84/tarkov-spt-installer/releases/latest).
+All required installers and runtimes are available in the [**Latest Release**](https://github.com/mikematos84/spt-setup-guide/releases/latest).
 
 ### Runtimes
 
@@ -17,7 +17,7 @@ All required installers and runtimes are available in the [**Latest Release**](h
 - SPT Installer v4.1.3
 - Fika Installer v2.4.2
 
-> **Download all files from the [Releases](https://github.com/mikematos84/tarkov-spt-installer/releases) page** - Click "Latest Release" and download all 5 files. Extract them into a `downloads` folder on your machine before starting the setup process.
+> **Download all files from the [Releases](https://github.com/mikematos84/spt-setup-guide/releases) page** - Click "Latest Release" and download all 5 files. Extract them into a `downloads` folder on your machine before starting the setup process.
 
 ## Steps
 
