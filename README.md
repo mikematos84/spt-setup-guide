@@ -121,15 +121,8 @@ This guide uses the following versions and sources. Use this section for trouble
 
 ## 🎮 Recommended Mods
 
-The following mods are included in the Release. Follow **Step 8** above for installation instructions.
+The following mods are included in the Release. See **Step 8: Installing Mods (Optional)** above for installation instructions.
 
-### DynamicMaps v1.2.1
-
-| Property | Details |
-|----------|---------|
-| **Description** | Dynamic maps for SPT that provide interactive map markers, locations, and extracts |
-| **Version** | 1.2.1 |
-| **Official Page** | [https://sp-mod.com/mod/1431/dynamic-maps](https://sp-mod.com/mod/1431/dynamic-maps) |
-| **File** | `DynamicMaps-1.2.1.zip` |
-
-To install this mod, see **Step 8: Installing Mods (Optional)** above for detailed instructions on extracting and merging the mod files into your SPT installation.
+| Mod | Description | Version | Official Page | File |
+|-----|-------------|---------|---|---|
+| **DynamicMaps** | Interactive map markers, locations, and extracts | 1.2.1 | [sp-mod.com/mod/1431](https://sp-mod.com/mod/1431/dynamic-maps) | `DynamicMaps-1.2.1.zip` |
