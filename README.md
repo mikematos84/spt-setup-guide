@@ -121,7 +121,7 @@ This guide uses the following versions and sources. Use this section for trouble
 
 ## 🎮 Recommended Mods
 
-The following mods are included in the Release and should be extracted to the `mods` folder before setup.
+The following mods are included in the Release. Follow **Step 8** above for installation instructions.
 
 ### DynamicMaps v1.2.1
 
@@ -130,10 +130,6 @@ The following mods are included in the Release and should be extracted to the `m
 | **Description** | Dynamic maps for SPT that provide interactive map markers, locations, and extracts |
 | **Version** | 1.2.1 |
 | **Official Page** | [https://sp-mod.com/mod/1431/dynamic-maps](https://sp-mod.com/mod/1431/dynamic-maps) |
-| **Installation** | Extract `DynamicMaps-1.2.1.zip` into `C:\Games\SPT\` (merges with existing folders) |
+| **File** | `DynamicMaps-1.2.1.zip` |
 
-#### Installation Steps:
-1. Download `DynamicMaps-1.2.1.zip` from the [Release](https://github.com/mikematos84/spt-setup-guide/releases)
-2. Extract the zip file into your SPT installation directory: `C:\Games\SPT\`
-3. The mod folders will merge with existing directories (BepInEx, SPT_Runtime, etc.)
-4. Start your server and the mod will be active
+To install this mod, see **Step 8: Installing Mods (Optional)** above for detailed instructions on extracting and merging the mod files into your SPT installation.
