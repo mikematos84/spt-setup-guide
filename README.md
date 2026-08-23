@@ -77,10 +77,20 @@ The following are steps you have to take in order to be ready to install Fika. I
 If you want to add recommended mods to your SPT installation:
 
 1. Download any mod zip files from the [Releases](https://github.com/mikematos84/spt-setup-guide/releases) page
-2. Extract the mod zip into your SPT installation directory: `C:\Games\SPT\`
-3. The mod folders will merge with existing directories automatically
-4. Restart your SPT server for mods to take effect
-5. You can verify mods are loaded by checking the console output when the server starts
+
+**Option A: Direct Extract (Recommended)**
+1. Right-click the mod zip file and select **Extract All**
+1. In the extraction dialog, set the destination to: `C:\Games\SPT\`
+1. Click **Extract** - the mod files will merge with existing directories (overwriting where necessary)
+
+**Option B: Extract Then Copy**
+1. Extract the mod zip to a temporary location (e.g., Desktop)
+1. Open the extracted folder and copy all contents (BepInEx, SPT_Runtime, etc.)
+1. Navigate to `C:\Games\SPT\` and paste - Windows will prompt to merge/overwrite, select **Yes**
+
+**After Installation**
+1. Restart your SPT server for mods to take effect
+1. You can verify mods are loaded by checking the console output when the server starts
 
 > **Note**: Only install mods that are compatible with SPT v4.1.3. Incompatible mods may cause crashes or unexpected behavior.
 
