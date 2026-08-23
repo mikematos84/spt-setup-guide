@@ -94,3 +94,24 @@ This guide uses the following versions and sources. Use this section for trouble
 | **Fika (Multiplayer Mod)** | 2.4.2 | [https://github.com/project-fika/Fika-Installer/releases/download/v1.2.0/Fika-Installer.exe](https://github.com/project-fika/Fika-Installer/releases/download/v1.2.0/Fika-Installer.exe) | [Fika Installation Guide](https://wiki.project-fika.com/installing-fika/installation) |
 
 > **Note**: This guide is specifically tested with SPT v4.1.3 and Fika v2.4.2. If newer versions become available, refer to the official installation guides linked above for any changes to the setup process.
+
+---
+
+## 🎮 Recommended Mods
+
+The following mods are included in the Release and should be extracted to the `mods` folder before setup.
+
+### DynamicMaps v1.2.1
+
+| Property | Details |
+|----------|---------|
+| **Description** | Dynamic maps for SPT that provide interactive map markers, locations, and extracts |
+| **Version** | 1.2.1 |
+| **Official Page** | [https://sp-mod.com/mod/1431/dynamic-maps](https://sp-mod.com/mod/1431/dynamic-maps) |
+| **Installation** | Extract `DynamicMaps-1.2.1.zip` into `C:\Games\SPT\` (merges with existing folders) |
+
+#### Installation Steps:
+1. Download `DynamicMaps-1.2.1.zip` from the [Release](https://github.com/mikematos84/spt-setup-guide/releases)
+2. Extract the zip file into your SPT installation directory: `C:\Games\SPT\`
+3. The mod folders will merge with existing directories (BepInEx, SPT_Runtime, etc.)
+4. Start your server and the mod will be active
