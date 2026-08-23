@@ -4,16 +4,20 @@ Setup guide to getting SPT (Single Player Tarkov) **v4.1.3** and **Fika v2.4.2**
 
 ## Prerequisites 
 
+All required installers and runtimes are available in the [**Latest Release**](https://github.com/mikematos84/tarkov-spt-installer/releases/latest).
+
 ### Runtimes
 
-- [DotNet 10 Desktop Runtime](./downloads/windowsdesktop-runtime-10.0.11-win-x64.exe)
-- [ASP.NET 10 Core Runtime](./downloads/aspnetcore-runtime-10.0.11-win-x64.exe)
+- DotNet 10 Desktop Runtime v10.0.11
+- ASP.NET 10 Core Runtime v10.0.11
 
 ### Installers
 
-- [Battlestate Games Launcher](./downloads/BsgLauncher.15.0.0.4595.exe)
-- [SPT Installer](./downloads/SPTInstaller.exe)
-- [Fika Installer](./downloads/Fika-Installer.exe)
+- Battlestate Games Launcher v15.0.0.4595
+- SPT Installer v4.1.3
+- Fika Installer v2.4.2
+
+> **Download all files from the [Releases](https://github.com/mikematos84/tarkov-spt-installer/releases) page** - Click "Latest Release" and download all 5 files. Extract them into a `downloads` folder on your machine before starting the setup process.
 
 ## Steps
 
