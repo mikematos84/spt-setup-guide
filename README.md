@@ -125,4 +125,4 @@ The following mods are included in the Release. See **Step 8: Installing Mods (O
 
 | Mod | Description | Version | Official Page | File |
 |-----|-------------|---------|---|---|
-| **DynamicMaps** | Interactive map markers, locations, and extracts | 1.2.1 | [sp-mod.com/mod/1431](https://sp-mod.com/mod/1431/dynamic-maps) | `DynamicMaps-1.2.1.zip` |
+| **DynamicMaps** | Interactive map markers, locations, and extracts | 1.2.1 | https://sp-mod.com/mod/1431/dynamic-maps | `DynamicMaps-1.2.1.zip` |
