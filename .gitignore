@@ -4,6 +4,9 @@ profiles/
 # Downloads folder (contains installer executables)
 downloads/
 
+# Mods folder (large binary files are stored in GitHub Releases, not in repo)
+mods/
+
 # OS and IDE files
 .DS_Store
 .vscode/
