@@ -17,7 +17,9 @@ All required installers and runtimes are available in the [**Latest Release**](h
 - SPT Installer v4.1.3
 - Fika Installer v2.4.2
 
-> **Download all files from the [Releases](https://github.com/mikematos84/spt-setup-guide/releases) page** - Click "Latest Release" and download all 5 files. Extract them into a `downloads` folder on your machine before starting the setup process.
+> **Download files from the [Releases](https://github.com/mikematos84/spt-setup-guide/releases) page:**
+> - **v1.0.0**: Download all 5 base setup files (runtimes + installers). Extract into a `downloads` folder before starting setup.
+> - **v1.0.0-mods** (Optional): Quality-of-Life Mods Bundle - download for recommended mods (see Step 8).
 
 ## Steps
 
@@ -74,19 +76,20 @@ The following are steps you have to take in order to be ready to install Fika. I
 
 ### Step 8: Installing Mods (Optional)
 
-If you want to add recommended mods to your SPT installation:
+If you want to add recommended quality-of-life mods to your SPT installation:
 
-1. Download any mod zip files from the [Releases](https://github.com/mikematos84/spt-setup-guide/releases) page
+1. Download the **Quality-of-Life Mods Bundle** from the [v1.0.0-mods Release](https://github.com/mikematos84/spt-setup-guide/releases/tag/v1.0.0-mods)
+2. Download any or all of the 9 mod files from that release
 
 **Option A: Direct Extract (Recommended)**
-1. Right-click the mod zip file and select **Extract All**
+1. Right-click each mod file and select **Extract All**
 1. In the extraction dialog, set the destination to: `C:\Games\SPT\`
 1. Click **Extract** - the mod files will merge with existing directories (overwriting where necessary)
 
 **Option B: Extract Then Copy**
-1. Extract the mod zip to a temporary location (e.g., Desktop)
-1. Open the extracted folder and copy all contents (BepInEx, SPT_Runtime, etc.)
-1. Navigate to `C:\Games\SPT\` and paste - Windows will prompt to merge/overwrite, select **Yes**
+1. Extract mod files to a temporary location (e.g., Desktop)
+2. Open each extracted folder and copy all contents (BepInEx, SPT_Runtime, etc.)
+3. Navigate to `C:\Games\SPT\` and paste - Windows will prompt to merge/overwrite, select **Yes**
 
 **After Installation**
 1. Restart your SPT server for mods to take effect
@@ -121,8 +124,18 @@ This guide uses the following versions and sources. Use this section for trouble
 
 ## 🎮 Recommended Mods
 
-The following mods are included in the Release. See **Step 8: Installing Mods (Optional)** above for installation instructions.
+The following quality-of-life mods are included in the Release to enhance your SPT experience. See **Step 8: Installing Mods (Optional)** above for installation instructions.
+
+> **Quality-of-Life Mods**: These mods improve gameplay experience, convenience, and information accessibility without significantly altering core mechanics.
 
 | Mod | Description | Version | Official Page | File |
 |-----|-------------|---------|---|---|
-| **DynamicMaps** | Interactive map markers, locations, and extracts | 1.2.1 | https://sp-mod.com/mod/1431/dynamic-maps | `DynamicMaps-1.2.1.zip` |
+| **DynamicMaps** | Interactive map markers, locations, and extract information | 1.2.1 | https://sp-mod.com/mod/1431/dynamic-maps | `DynamicMaps-1.2.1.zip` |
+| **Task Search** | Quick search functionality for tasks and objectives | 4.1 | https://sp-mod.com/mod/2909/task-search | `TaskSearch4.1.zip` |
+| **Compatibility Highlighter** | Shows item compatibility and equipment compatibility info | 1.2.1 | https://sp-mod.com/mod/2859/compatibility-highlighter | `CompatibilityHighlighterV1.2.1.7z` |
+| **Climbable Ladders** | Makes ladders climbable for improved map navigation | 1.0.4 | https://sp-mod.com/mod/2649/climbable-ladders | `tarkin-ladders-v1.0.4.zip` |
+| **Merge Consumables** | Groups similar consumable items together for inventory organization | 1.0 | https://sp-mod.com/mod/1657/mergeconsumables | `MergeConsumables.zip` |
+| **Simple Workout QTE** | Simplifies workout quick-time events for ease of use | 1.0 | https://sp-mod.com/mod/1437/simple-workout-qte | `acidphantasm-simpleworkoutqte.7z` |
+| **Use Loose Loot** | Allows using loose loot without picking it up | 1.6.0 | https://sp-mod.com/mod/933/use-loose-loot | `Gaylatea-UseLooseLoot-1.6.0.7z` |
+| **Task Item Indicator** | Visually highlights items needed for active tasks | 1.0.0 | https://sp-mod.com/mod/2888/task-item-indicator | `TaskItemIndicator_1.0.0.zip` |
+| **ODT ItemInfo** | Comprehensive item information including pricing, barter, crafting, and armor specs | 4.0 | https://github.com/thuynguyentrungdang/ODT-ItemInfo-4.0 | `ODT-ItemInfo-4.0_2.0.15.7z` |
