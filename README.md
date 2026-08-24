@@ -124,9 +124,21 @@ This guide uses the following versions and sources. Use this section for trouble
 
 ## 🎮 Recommended Mods
 
-The following quality-of-life mods are included in the Release to enhance your SPT experience. See **Step 8: Installing Mods (Optional)** above for installation instructions.
+The following quality-of-life mods and utilities are included in the Release to enhance your SPT experience. See **Step 8: Installing Mods (Optional)** above for installation instructions.
 
-> **Quality-of-Life Mods**: These mods improve gameplay experience, convenience, and information accessibility without significantly altering core mechanics.
+### 🛠️ Utilities
+Start with these tools to help manage your SPT installation and mods.
+
+| Utility | Description | Version | Official Page | File |
+|---------|-------------|---------|---|---|
+| **SPT Mod Manager** | Open-source mod manager for SPT featuring easy installation, management, and Forge integration | 0.5.3 | https://sp-mod.com/mod/2851/spt-mod-manager | `SPT-Mod-Manager.zip` |
+
+> **SPT Mod Manager Installation**: While this utility can be run from anywhere, we recommend creating a dedicated folder to keep things organized. Extract the `SPT-Mod-Manager.zip` contents to `C:\Games\SPT\SPT_Mod_Manager\` for easy access and management.
+
+![SPT Mod Manager Interface](./assets/SPT-Mode-Manager.png)
+
+### Quality-of-Life Mods
+These mods improve gameplay experience, convenience, and information accessibility without significantly altering core mechanics.
 
 | Mod | Description | Version | Official Page | File |
 |-----|-------------|---------|---|---|
@@ -138,3 +150,7 @@ The following quality-of-life mods are included in the Release to enhance your S
 | **Simple Workout QTE** | Simplifies workout quick-time events for ease of use | 1.0 | https://sp-mod.com/mod/1437/simple-workout-qte | `acidphantasm-simpleworkoutqte.7z` |
 | **Use Loose Loot** | Allows using loose loot without picking it up | 1.6.0 | https://sp-mod.com/mod/933/use-loose-loot | `Gaylatea-UseLooseLoot-1.6.0.7z` |
 | **Task Item Indicator** | Visually highlights items needed for active tasks | 1.0.0 | https://sp-mod.com/mod/2888/task-item-indicator | `TaskItemIndicator_1.0.0.zip` |
+| **Fast Sell In Flea** | Quickly add items on the flea market with automatic fitting of the current price | 1.3.1 | https://sp-mod.com/mod/2207/fast-sell-in-flea | `Kat-FastSellInFlea-1.3.1.7z` |
+| **Trader Search** | Filter trader stock live by item name with a search bar | 2.0.0 | https://sp-mod.com/mod/2824/tradersearch | `maschine-TraderSearch-2.0.0.zip` |
+| **Linked Search In Stash** | Search your stash for items compatible with selected equipment | 2.0.1 | https://sp-mod.com/mod/2731/linkedsearchinstash | `maschine-LinkedSearchInStash-2.0.1.zip` |
+| **Weapon Builder Search** | Live search functionality in the Weapon Builder and Modding screens | 2.0.0 | https://sp-mod.com/mod/2743/weaponbuildersearch | `maschine-WeaponBuilderSearch-2.0.0.zip` |
