@@ -138,4 +138,3 @@ The following quality-of-life mods are included in the Release to enhance your S
 | **Simple Workout QTE** | Simplifies workout quick-time events for ease of use | 1.0 | https://sp-mod.com/mod/1437/simple-workout-qte | `acidphantasm-simpleworkoutqte.7z` |
 | **Use Loose Loot** | Allows using loose loot without picking it up | 1.6.0 | https://sp-mod.com/mod/933/use-loose-loot | `Gaylatea-UseLooseLoot-1.6.0.7z` |
 | **Task Item Indicator** | Visually highlights items needed for active tasks | 1.0.0 | https://sp-mod.com/mod/2888/task-item-indicator | `TaskItemIndicator_1.0.0.zip` |
-| **ODT ItemInfo** | Comprehensive item information including pricing, barter, crafting, and armor specs | 4.0 | https://github.com/thuynguyentrungdang/ODT-ItemInfo-4.0 | `ODT-ItemInfo-4.0_2.0.15.7z` |
