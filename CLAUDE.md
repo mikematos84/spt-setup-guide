@@ -56,6 +56,9 @@ gh release delete-asset v1.0.0-mods "AssetName.zip" --yes
 gh release view v1.0.0-mods --json assets
 ```
 
+**⚠️ Release Maintenance**
+After creating or updating releases, always remove auto-generated source code files (GitHub creates `Source code (zip)` and `Source code (tar.gz)` automatically). These are unnecessary bloat for distribution releases. Keep releases clean with only the actual installer/mod files users need to download.
+
 ## Documentation (README.md) Patterns
 
 ### Table Formatting
