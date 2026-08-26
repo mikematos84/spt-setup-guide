@@ -105,18 +105,18 @@ This guide uses the following versions and sources. Use this section for trouble
 
 ### Runtimes
 
-| Component | Version | Download |
-|-----------|---------|----------|
-| **DotNet Desktop Runtime** | 10.0.11 | [https://builds.dotnet.microsoft.com/dotnet/WindowsDesktop/10.0.11/windowsdesktop-runtime-10.0.11-win-x64.exe](https://builds.dotnet.microsoft.com/dotnet/WindowsDesktop/10.0.11/windowsdesktop-runtime-10.0.11-win-x64.exe) |
-| **ASP.NET Core Runtime** | 10.0.11 | [https://builds.dotnet.microsoft.com/dotnet/aspnetcore/Runtime/10.0.11/aspnetcore-runtime-10.0.11-win-x64.exe](https://builds.dotnet.microsoft.com/dotnet/aspnetcore/Runtime/10.0.11/aspnetcore-runtime-10.0.11-win-x64.exe) |
+| Component | Version |
+|-----------|---------|
+| **[DotNet Desktop Runtime](https://builds.dotnet.microsoft.com/dotnet/WindowsDesktop/10.0.11/windowsdesktop-runtime-10.0.11-win-x64.exe)** | 10.0.11 |
+| **[ASP.NET Core Runtime](https://builds.dotnet.microsoft.com/dotnet/aspnetcore/Runtime/10.0.11/aspnetcore-runtime-10.0.11-win-x64.exe)** | 10.0.11 |
 
 ### Applications
 
-| Component | Version | Download | Official Guide |
-|-----------|---------|----------|-----------------|
-| **Battlestate Games Launcher** | 15.0.0.4595 | [https://launcher.escapefromtarkov.com/launcher/download](https://launcher.escapefromtarkov.com/launcher/download) | — |
-| **SPT (Single Player Tarkov)** | 4.1.3 | [https://patcher.sp-tushonka.com/SPTInstaller.exe](https://patcher.sp-tushonka.com/SPTInstaller.exe) | [SPT 4.x Installation Guide](https://wiki.sp-tushonka.com/en/SPT_4x/Installation_Guide) |
-| **Fika (Multiplayer Mod)** | 2.4.2 | [https://github.com/project-fika/Fika-Installer/releases/download/v1.2.0/Fika-Installer.exe](https://github.com/project-fika/Fika-Installer/releases/download/v1.2.0/Fika-Installer.exe) | [Fika Installation Guide](https://wiki.project-fika.com/installing-fika/installation) |
+| Component | Version | Official Guide |
+|-----------|---------|-----------------|
+| **[Battlestate Games Launcher](https://launcher.escapefromtarkov.com/launcher/download)** | 15.0.0.4595 | — |
+| **[SPT (Single Player Tarkov)](https://patcher.sp-tushonka.com/SPTInstaller.exe)** | 4.1.3 | [SPT 4.x Installation Guide](https://wiki.sp-tushonka.com/en/SPT_4x/Installation_Guide) |
+| **[Fika (Multiplayer Mod)](https://github.com/project-fika/Fika-Installer/releases/download/v1.2.0/Fika-Installer.exe)** | 2.4.2 | [Fika Installation Guide](https://wiki.project-fika.com/installing-fika/installation) |
 
 > **Note**: This guide is specifically tested with SPT v4.1.3 and Fika v2.4.2. If newer versions become available, refer to the official installation guides linked above for any changes to the setup process.
 
@@ -129,9 +129,9 @@ The following quality-of-life mods and utilities are included in the Release to 
 ### 🛠️ Utilities
 Start with these tools to help manage your SPT installation and mods.
 
-| Utility | Description | Version | Official Page | File |
-|---------|-------------|---------|---|---|
-| **SPT Mod Manager** | Open-source mod manager for SPT featuring easy installation, management, and Forge integration | 0.5.3 | https://sp-mod.com/mod/2851/spt-mod-manager | `SPT-Mod-Manager.zip` |
+| Utility | Description | Version | File |
+|---------|-------------|---------|---|
+| **[SPT Mod Manager](https://sp-mod.com/mod/2851/spt-mod-manager)** | Open-source mod manager for SPT featuring easy installation, management, and Forge integration | 0.5.3 | `SPT-Mod-Manager.zip` |
 
 > **SPT Mod Manager Installation**: While this utility can be run from anywhere, we recommend creating a dedicated folder to keep things organized. Extract the `SPT-Mod-Manager.zip` contents to `C:\Games\SPT\SPT_Mod_Manager\` for easy access and management.
 
