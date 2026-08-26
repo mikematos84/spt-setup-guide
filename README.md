@@ -8,14 +8,14 @@ All required installers and runtimes can be found under [**Releases**](https://g
 
 ### Runtimes
 
-- DotNet 10 Desktop Runtime v10.0.11
-- ASP.NET 10 Core Runtime v10.0.11
+- **[DotNet Desktop Runtime](https://builds.dotnet.microsoft.com/dotnet/WindowsDesktop/10.0.11/windowsdesktop-runtime-10.0.11-win-x64.exe)** v10.0.11
+- **[ASP.NET Core Runtime](https://builds.dotnet.microsoft.com/dotnet/aspnetcore/Runtime/10.0.11/aspnetcore-runtime-10.0.11-win-x64.exe)** v10.0.11
 
 ### Installers
 
-- Battlestate Games Launcher v15.0.0.4595
-- SPT Installer v4.1.3
-- Fika Installer v2.4.2
+- **[Battlestate Games Launcher](https://launcher.escapefromtarkov.com/launcher/download)** v15.0.0.4595
+- **[SPT Installer](https://patcher.sp-tushonka.com/SPTInstaller.exe)** v4.1.3
+- **[Fika Installer](https://github.com/project-fika/Fika-Installer/releases/download/v1.2.0/Fika-Installer.exe)** v2.4.2
 
 > **Download files from the [Releases](https://github.com/mikematos84/spt-setup-guide/releases) page:**
 > - **v1.0.0**: Download all 5 base setup files (runtimes + installers). Extract into a `downloads` folder before starting setup.
