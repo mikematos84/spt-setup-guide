@@ -7,6 +7,9 @@ downloads/
 # Mods folder (large binary files are stored in GitHub Releases, not in repo)
 mods/
 
+# Installer files
+installers/
+
 # OS and IDE files
 .DS_Store
 .vscode/
