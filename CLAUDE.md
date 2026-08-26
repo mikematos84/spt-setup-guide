@@ -14,9 +14,9 @@ This is a **setup guide and distribution repository** for **SPT (Single Player T
 
 ```
 ├── README.md                 # Main setup guide and mod documentation
-├── mods/                     # Local mod package files (zips, 7z archives)
+├── mods/                     # Mod package files (zips, 7z archives) for v1.0.0-mods release
+├── installers/               # Installer and runtime files for v1.0.0 release
 ├── assets/                   # Images and media for documentation
-├── downloads/                # Placeholder for user-downloaded installers
 ├── profiles/                 # SPT game profile backups
 └── .claude/settings.local.json # Claude Code permissions config
 ```
@@ -131,9 +131,9 @@ New mods should start in the Optional section with:
 
 ## Known Issues / Notes
 
-- **v1.0.0 release**: Currently empty after recent cleanup (needs base installer files re-uploaded)
 - Source code auto-generated assets (tar.gz, zip) have been removed from both releases to keep distributions clean
-- Mod files are version-tracked in `mods/` folder but excluded from git (see .gitignore)
+- Installer files in `installers/` folder are kept locally and uploaded to v1.0.0 release as needed
+- Mod files in `mods/` folder are kept locally and uploaded to v1.0.0-mods release
 
 ## Permissions Configured
 
