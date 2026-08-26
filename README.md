@@ -133,7 +133,7 @@ Start with these tools to help manage your SPT installation and mods.
 |---------|-------------|---------|---|
 | **[SPT Mod Manager](https://sp-mod.com/mod/2851/spt-mod-manager)** | Open-source mod manager for SPT featuring easy installation, management, and Forge integration | 0.5.3 | `SPT-Mod-Manager.zip` |
 
-> **SPT Mod Manager Installation**: While this utility can be run from anywhere, we recommend creating a dedicated folder to keep things organized. Extract the `SPT-Mod-Manager.zip` contents to `C:\Games\SPT\SPT_Mod_Manager\` for easy access and management.
+> **SPT Mod Manager Installation**: While this utility can be run from anywhere, we recommend creating a dedicated folder to keep things organized. Extract the `SPT-Mod-Manager.zip` contents to `C:\Games\SPT\SPT_Mod_Manager\` for easy access and management. For convenience, you can create a desktop shortcut to the SPT Mod Manager executable to quickly verify or install mods.
 
 ![SPT Mod Manager Interface](./assets/SPT-Mode-Manager.png)
 
