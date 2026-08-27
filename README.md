@@ -129,9 +129,9 @@ The following quality-of-life mods and utilities are included in the Release to 
 ### 🛠️ Utilities
 Start with these tools to help manage your SPT installation and mods.
 
-| Utility | Description | Version | File |
-|---------|-------------|---------|---|
-| **[SPT Mod Manager](https://sp-mod.com/mod/2851/spt-mod-manager)** | Open-source mod manager for SPT featuring easy installation, management, and Forge integration | 0.5.3 | `SPT-Mod-Manager.zip` |
+| Utility | Description | Version | File | Download |
+|---------|-------------|---------|---|---|
+| **[SPT Mod Manager](https://sp-mod.com/mod/2851/spt-mod-manager)** | Open-source mod manager for SPT featuring easy installation, management, and Forge integration | 0.5.3 | `SPT-Mod-Manager.zip` | [📥](https://github.com/mikematos84/spt-setup-guide/releases/download/v1.0.0-mods/SPT-Mod-Manager.zip) |
 
 > **SPT Mod Manager Installation**: While this utility can be run from anywhere, we recommend creating a dedicated folder to keep things organized. Extract the `SPT-Mod-Manager.zip` contents to `C:\Games\SPT\SPT_Mod_Manager` for easy access and management. For convenience, you can create a desktop shortcut to the SPT Mod Manager executable to quickly verify or install mods.
 
@@ -140,11 +140,11 @@ Start with these tools to help manage your SPT installation and mods.
 ### ⚠️ Required Mods
 These mods are essential for proper server operation and have been tested for headless environments.
 
-| Mod | Description | Version | File |
-|-----|-------------|---------|---|
-| **[DynamicMaps](https://sp-mod.com/mod/1431/dynamic-maps)** | Interactive map markers, locations, and extract information | 1.2.1 | `DynamicMaps-1.2.1.zip` |
-| **[UIFixes](https://sp-mod.com/mod/1342/ui-fixes)** | Fixes and improvements to the SPT UI | 6.0.1 | `Tyfon-UIFixes-6.0.1.zip` |
-| **[Item Valuation](https://sp-mod.com/mod/2021/item-valuation)** | Displays item rarity coloring and marketplace pricing information. Temporary replacement until ODT-iteminfo is ported to SPT 4.1. | 2.1.0 | `acidphantasm-itemvaluation.7z` |
+| Mod | Description | Version | File | Download |
+|-----|-------------|---------|---|---|
+| **[DynamicMaps](https://sp-mod.com/mod/1431/dynamic-maps)** | Interactive map markers, locations, and extract information | 1.2.1 | `DynamicMaps-1.2.1.zip` | [📥](https://github.com/mikematos84/spt-setup-guide/releases/download/v1.0.0-mods/DynamicMaps-1.2.1.zip) |
+| **[UIFixes](https://sp-mod.com/mod/1342/ui-fixes)** | Fixes and improvements to the SPT UI | 6.0.1 | `Tyfon-UIFixes-6.0.1.zip` | [📥](https://github.com/mikematos84/spt-setup-guide/releases/download/v1.0.0-mods/Tyfon-UIFixes-6.0.1.zip) |
+| **[Item Valuation](https://sp-mod.com/mod/2021/item-valuation)** | Displays item rarity coloring and marketplace pricing information. Temporary replacement until ODT-iteminfo is ported to SPT 4.1. | 2.1.0 | `acidphantasm-itemvaluation.7z` | [📥](https://github.com/mikematos84/spt-setup-guide/releases/download/v1.0.0-mods/acidphantasm-itemvaluation.7z) |
 
 ### 🎮 Optional Quality-of-Life Mods
 
@@ -154,31 +154,31 @@ These mods improve gameplay experience, convenience, and information accessibili
 
 #### Search & Filter Tools
 
-| Mod | Description | Version | File |
-|-----|-------------|---------|---|
-| **[Task Search](https://sp-mod.com/mod/2909/task-search)** | Quick search functionality for tasks and objectives | 4.1 | `TaskSearch4.1.zip` |
-| **[Trader Search](https://sp-mod.com/mod/2824/tradersearch)** | Filter trader stock live by item name with a search bar | 2.0.0 | `maschine-TraderSearch-2.0.0.zip` |
-| **[Linked Search In Stash](https://sp-mod.com/mod/2731/linkedsearchinstash)** | Search your stash for items compatible with selected equipment | 2.0.1 | `maschine-LinkedSearchInStash-2.0.1.zip` |
-| **[Weapon Builder Search](https://sp-mod.com/mod/2743/weaponbuildersearch)** | Live search functionality in the Weapon Builder and Modding screens | 2.0.0 | `maschine-WeaponBuilderSearch-2.0.0.zip` |
+| Mod | Description | Version | File | Download |
+|-----|-------------|---------|---|---|
+| **[Task Search](https://sp-mod.com/mod/2909/task-search)** | Quick search functionality for tasks and objectives | 4.1 | `TaskSearch4.1.zip` | [📥](https://github.com/mikematos84/spt-setup-guide/releases/download/v1.0.0-mods/TaskSearch4.1.zip) |
+| **[Trader Search](https://sp-mod.com/mod/2824/tradersearch)** | Filter trader stock live by item name with a search bar | 2.0.0 | `maschine-TraderSearch-2.0.0.zip` | [📥](https://github.com/mikematos84/spt-setup-guide/releases/download/v1.0.0-mods/maschine-TraderSearch-2.0.0.zip) |
+| **[Linked Search In Stash](https://sp-mod.com/mod/2731/linkedsearchinstash)** | Search your stash for items compatible with selected equipment | 2.0.1 | `maschine-LinkedSearchInStash-2.0.1.zip` | [📥](https://github.com/mikematos84/spt-setup-guide/releases/download/v1.0.0-mods/maschine-LinkedSearchInStash-2.0.1.zip) |
+| **[Weapon Builder Search](https://sp-mod.com/mod/2743/weaponbuildersearch)** | Live search functionality in the Weapon Builder and Modding screens | 2.0.0 | `maschine-WeaponBuilderSearch-2.0.0.zip` | [📥](https://github.com/mikematos84/spt-setup-guide/releases/download/v1.0.0-mods/maschine-WeaponBuilderSearch-2.0.0.zip) |
 
 #### Information & Display
 
-| Mod | Description | Version | File |
-|-----|-------------|---------|---|
-| **[Compatibility Highlighter](https://sp-mod.com/mod/2859/compatibility-highlighter)** | Shows item compatibility and equipment compatibility info | 1.2.1 | `CompatibilityHighlighterV1.2.1.7z` |
-| **[Task Item Indicator](https://sp-mod.com/mod/2888/task-item-indicator)** | Visually highlights items needed for active tasks | 1.0.0 | `TaskItemIndicator_1.0.0.zip` |
+| Mod | Description | Version | File | Download |
+|-----|-------------|---------|---|---|
+| **[Compatibility Highlighter](https://sp-mod.com/mod/2859/compatibility-highlighter)** | Shows item compatibility and equipment compatibility info | 1.2.1 | `CompatibilityHighlighterV1.2.1.7z` | [📥](https://github.com/mikematos84/spt-setup-guide/releases/download/v1.0.0-mods/CompatibilityHighlighterV1.2.1.7z) |
+| **[Task Item Indicator](https://sp-mod.com/mod/2888/task-item-indicator)** | Visually highlights items needed for active tasks | 1.0.0 | `TaskItemIndicator_1.0.0.zip` | [📥](https://github.com/mikematos84/spt-setup-guide/releases/download/v1.0.0-mods/TaskItemIndicator_1.0.0.zip) |
 
 #### Inventory & Trading
 
-| Mod | Description | Version | File |
-|-----|-------------|---------|---|
-| **[Merge Consumables](https://sp-mod.com/mod/1657/mergeconsumables)** | Groups similar consumable items together for inventory organization | 1.0 | `MergeConsumables.zip` |
-| **[Use Loose Loot](https://sp-mod.com/mod/933/use-loose-loot)** | Allows using loose loot without picking it up | 1.6.0 | `Gaylatea-UseLooseLoot-1.6.0.7z` |
-| **[Fast Sell In Flea](https://sp-mod.com/mod/2207/fast-sell-in-flea)** | Quickly add items on the flea market with automatic fitting of the current price | 1.3.1 | `Kat-FastSellInFlea-1.3.1.7z` |
+| Mod | Description | Version | File | Download |
+|-----|-------------|---------|---|---|
+| **[Merge Consumables](https://sp-mod.com/mod/1657/mergeconsumables)** | Groups similar consumable items together for inventory organization | 1.0 | `MergeConsumables.zip` | [📥](https://github.com/mikematos84/spt-setup-guide/releases/download/v1.0.0-mods/MergeConsumables.zip) |
+| **[Use Loose Loot](https://sp-mod.com/mod/933/use-loose-loot)** | Allows using loose loot without picking it up | 1.6.0 | `Gaylatea-UseLooseLoot-1.6.0.7z` | [📥](https://github.com/mikematos84/spt-setup-guide/releases/download/v1.0.0-mods/Gaylatea-UseLooseLoot-1.6.0.7z) |
+| **[Fast Sell In Flea](https://sp-mod.com/mod/2207/fast-sell-in-flea)** | Quickly add items on the flea market with automatic fitting of the current price | 1.3.1 | `Kat-FastSellInFlea-1.3.1.7z` | [📥](https://github.com/mikematos84/spt-setup-guide/releases/download/v1.0.0-mods/Kat-FastSellInFlea-1.3.1.7z) |
 
 #### Gameplay Improvements
 
-| Mod | Description | Version | File |
-|-----|-------------|---------|---|
-| **[Climbable Ladders](https://sp-mod.com/mod/2649/climbable-ladders)** | Makes ladders climbable for improved map navigation | 1.0.4 | `tarkin-ladders-v1.0.4.zip` |
-| **[Simple Workout QTE](https://sp-mod.com/mod/1437/simple-workout-qte)** | Simplifies workout quick-time events for ease of use | 1.0 | `acidphantasm-simpleworkoutqte.7z` |
+| Mod | Description | Version | File | Download |
+|-----|-------------|---------|---|---|
+| **[Climbable Ladders](https://sp-mod.com/mod/2649/climbable-ladders)** | Makes ladders climbable for improved map navigation | 1.0.4 | `tarkin-ladders-v1.0.4.zip` | [📥](https://github.com/mikematos84/spt-setup-guide/releases/download/v1.0.0-mods/tarkin-ladders-v1.0.4.zip) |
+| **[Simple Workout QTE](https://sp-mod.com/mod/1437/simple-workout-qte)** | Simplifies workout quick-time events for ease of use | 1.0 | `acidphantasm-simpleworkoutqte.7z` | [📥](https://github.com/mikematos84/spt-setup-guide/releases/download/v1.0.0-mods/acidphantasm-simpleworkoutqte.7z) |
