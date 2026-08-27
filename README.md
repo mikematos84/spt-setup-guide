@@ -132,7 +132,7 @@ Start with these tools to help manage your SPT installation and mods.
 
 > **SPT Mod Manager Installation**: Extract the `SPT-Mod-Manager.zip` contents to `C:\Games\SPT\SPT_Mod_Manager` for easy access. Optionally create a desktop shortcut to the executable.
 
-![SPT Mod Manager Interface](./assets/SPT-Mode-Manager.png)
+![SPT Mod Manager Interface](./assets/SPT-Mod-Manager.png)
 
 ### ⚠️ Required Mods
 These mods are essential for proper server operation and have been tested for headless environments.
