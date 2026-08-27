@@ -144,6 +144,7 @@ These mods are essential for proper server operation and have been tested for he
 |-----|-------------|---------|---|
 | **[DynamicMaps](https://sp-mod.com/mod/1431/dynamic-maps)** | Interactive map markers, locations, and extract information | 1.2.1 | `DynamicMaps-1.2.1.zip` |
 | **[UIFixes](https://sp-mod.com/mod/1342/ui-fixes)** | Fixes and improvements to the SPT UI | 6.0.1 | `Tyfon-UIFixes-6.0.1.zip` |
+| **[Item Valuation](https://sp-mod.com/mod/2021/item-valuation)** | Displays item rarity coloring and marketplace pricing information. Temporary replacement until ODT-iteminfo is ported to SPT 4.1. | 2.1.0 | `acidphantasm-itemvaluation.7z` |
 
 ### 🎮 Optional Quality-of-Life Mods
 
@@ -165,7 +166,6 @@ These mods improve gameplay experience, convenience, and information accessibili
 | Mod | Description | Version | File |
 |-----|-------------|---------|---|
 | **[Compatibility Highlighter](https://sp-mod.com/mod/2859/compatibility-highlighter)** | Shows item compatibility and equipment compatibility info | 1.2.1 | `CompatibilityHighlighterV1.2.1.7z` |
-| **[Item Valuation](https://sp-mod.com/mod/2021/item-valuation)** | Displays item values and pricing information | 2.1.0 | `acidphantasm-itemvaluation.7z` |
 | **[Task Item Indicator](https://sp-mod.com/mod/2888/task-item-indicator)** | Visually highlights items needed for active tasks | 1.0.0 | `TaskItemIndicator_1.0.0.zip` |
 
 #### Inventory & Trading
