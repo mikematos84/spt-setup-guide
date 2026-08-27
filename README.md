@@ -165,7 +165,7 @@ These mods improve gameplay experience, convenience, and information accessibili
 | Mod | Description | Version | File |
 |-----|-------------|---------|---|
 | **[Compatibility Highlighter](https://sp-mod.com/mod/2859/compatibility-highlighter)** | Shows item compatibility and equipment compatibility info | 1.2.1 | `CompatibilityHighlighterV1.2.1.7z` |
-| **[Item Valuation](https://sp-mod.com/mod/2021/item-valuation)** | Displays item values and pricing information | — | `acidphantasm-itemvaluation.7z` |
+| **[Item Valuation](https://sp-mod.com/mod/2021/item-valuation)** | Displays item values and pricing information | 2.1.0 | `acidphantasm-itemvaluation.7z` |
 | **[Task Item Indicator](https://sp-mod.com/mod/2888/task-item-indicator)** | Visually highlights items needed for active tasks | 1.0.0 | `TaskItemIndicator_1.0.0.zip` |
 
 #### Inventory & Trading
