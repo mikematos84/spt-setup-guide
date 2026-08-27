@@ -24,7 +24,7 @@ All required installers and runtimes can be found under [**Releases**](https://g
 ## Steps
 
 ### Step 1: Install Runtimes
-If not already installed, install the [DotNet 10 Desktop Runtime](./downloads/windowsdesktop-runtime-10.0.11-win-x64.exe) and [ASP.NET 10 Core Runtime](./downloads/aspnetcore-runtime-10.0.11-win-x64.exe)
+Install the [DotNet 10 Desktop Runtime](./downloads/windowsdesktop-runtime-10.0.11-win-x64.exe) and [ASP.NET 10 Core Runtime](./downloads/aspnetcore-runtime-10.0.11-win-x64.exe)
 
 ### Step 2: Install Battlestate Games Launcher
 Launch the **Battlestate Games Launcher** and follow the installation prompts leaving all the **default settings**. 
@@ -76,10 +76,7 @@ The following are steps you have to take in order to be ready to install Fika. I
 
 ### Step 8: Installing Mods (Optional)
 
-If you want to add recommended quality-of-life mods to your SPT installation:
-
-1. Download the **Quality-of-Life Mods Bundle** from the [v1.0.0-mods Release](https://github.com/mikematos84/spt-setup-guide/releases/tag/v1.0.0-mods)
-2. Download any or all of the 9 mod files from that release
+To add recommended mods, download mod files from the [v1.0.0-mods Release](https://github.com/mikematos84/spt-setup-guide/releases/tag/v1.0.0-mods):
 
 **Option A: Direct Extract (Recommended)**
 1. Right-click each mod file and select **Extract All**
@@ -133,7 +130,7 @@ Start with these tools to help manage your SPT installation and mods.
 |---------|-------------|---------|---|---|
 | **[SPT Mod Manager](https://sp-mod.com/mod/2851/spt-mod-manager)** | Open-source mod manager for SPT featuring easy installation, management, and Forge integration | 0.5.3 | `SPT-Mod-Manager.zip` | [📥](https://github.com/mikematos84/spt-setup-guide/releases/download/v1.0.0-mods/SPT-Mod-Manager.zip) |
 
-> **SPT Mod Manager Installation**: While this utility can be run from anywhere, we recommend creating a dedicated folder to keep things organized. Extract the `SPT-Mod-Manager.zip` contents to `C:\Games\SPT\SPT_Mod_Manager` for easy access and management. For convenience, you can create a desktop shortcut to the SPT Mod Manager executable to quickly verify or install mods.
+> **SPT Mod Manager Installation**: Extract the `SPT-Mod-Manager.zip` contents to `C:\Games\SPT\SPT_Mod_Manager` for easy access. Optionally create a desktop shortcut to the executable.
 
 ![SPT Mod Manager Interface](./assets/SPT-Mode-Manager.png)
 
@@ -150,7 +147,7 @@ These mods are essential for proper server operation and have been tested for he
 
 These mods improve gameplay experience, convenience, and information accessibility without significantly altering core mechanics.
 
-> **⚠️ Testing Status**: These mods have **NOT been tested for headless operation** and will **not be enabled on the server**. You are welcome to try them out locally on your own, but they may or may not work as expected. As we test and verify compatibility, successful mods may be promoted to the Required section.
+> **⚠️ Testing Status**: These mods have **NOT been tested for headless operation**. Test locally at your own discretion; they may be promoted to Required once verified.
 
 #### Search & Filter Tools
 
