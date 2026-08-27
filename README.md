@@ -105,18 +105,18 @@ This guide uses the following versions and sources. Use this section for trouble
 
 ### Runtimes
 
-| Component | Version |
-|-----------|---------|
-| **[DotNet Desktop Runtime](https://builds.dotnet.microsoft.com/dotnet/WindowsDesktop/10.0.11/windowsdesktop-runtime-10.0.11-win-x64.exe)** | 10.0.11 |
-| **[ASP.NET Core Runtime](https://builds.dotnet.microsoft.com/dotnet/aspnetcore/Runtime/10.0.11/aspnetcore-runtime-10.0.11-win-x64.exe)** | 10.0.11 |
+| Component | Version | Download |
+|-----------|---------|----------|
+| **[DotNet Desktop Runtime](https://builds.dotnet.microsoft.com/dotnet/WindowsDesktop/10.0.11/windowsdesktop-runtime-10.0.11-win-x64.exe)** | 10.0.11 | [📥](https://builds.dotnet.microsoft.com/dotnet/WindowsDesktop/10.0.11/windowsdesktop-runtime-10.0.11-win-x64.exe) |
+| **[ASP.NET Core Runtime](https://builds.dotnet.microsoft.com/dotnet/aspnetcore/Runtime/10.0.11/aspnetcore-runtime-10.0.11-win-x64.exe)** | 10.0.11 | [📥](https://builds.dotnet.microsoft.com/dotnet/aspnetcore/Runtime/10.0.11/aspnetcore-runtime-10.0.11-win-x64.exe) |
 
 ### Applications
 
-| Component | Version | Official Guide |
-|-----------|---------|-----------------|
-| **[Battlestate Games Launcher](https://launcher.escapefromtarkov.com/launcher/download)** | 15.0.0.4595 | — |
-| **[SPT (Single Player Tarkov)](https://patcher.sp-tushonka.com/SPTInstaller.exe)** | 4.1.3 | [SPT 4.x Installation Guide](https://wiki.sp-tushonka.com/en/SPT_4x/Installation_Guide) |
-| **[Fika (Multiplayer Mod)](https://github.com/project-fika/Fika-Installer/releases/download/v1.2.0/Fika-Installer.exe)** | 2.4.2 | [Fika Installation Guide](https://wiki.project-fika.com/installing-fika/installation) |
+| Component | Version | Official Guide | Download |
+|-----------|---------|-----------------|----------|
+| **[Battlestate Games Launcher](https://launcher.escapefromtarkov.com/launcher/download)** | 15.0.0.4595 | — | [📥](https://launcher.escapefromtarkov.com/launcher/download) |
+| **[SPT (Single Player Tarkov)](https://patcher.sp-tushonka.com/SPTInstaller.exe)** | 4.1.3 | [SPT 4.x Installation Guide](https://wiki.sp-tushonka.com/en/SPT_4x/Installation_Guide) | [📥](https://patcher.sp-tushonka.com/SPTInstaller.exe) |
+| **[Fika (Multiplayer Mod)](https://github.com/project-fika/Fika-Installer/releases/download/v1.2.0/Fika-Installer.exe)** | 2.4.2 | [Fika Installation Guide](https://wiki.project-fika.com/installing-fika/installation) | [📥](https://github.com/project-fika/Fika-Installer/releases/download/v1.2.0/Fika-Installer.exe) |
 
 > **Note**: This guide is specifically tested with SPT v4.1.3 and Fika v2.4.2. If newer versions become available, refer to the official installation guides linked above for any changes to the setup process.
 
